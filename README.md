@@ -14,7 +14,7 @@ I’m always learning, exploring new ideas, and open to exciting collaborations.
 
 - - - 
 
-## Skills
+## 👩‍🏫 Skills
 
 ☑️Problem-Solving  
 🎨Creativity  
