@@ -1,5 +1,11 @@
 ## Hi there 👋, I'm Monique
 
+Welcome to my GitHub! 👩‍💻
+
+I’m a creative front-end developer with a background in finance, blending analytical thinking with a love for building beautiful and functional web applications.
+
+I focus on HTML, CSS, and Tailwind, and I’m always learning, creating, and open to new challenges and collaborations!
+
 <!--
 **Moniquevdb109/Moniquevdb109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
