@@ -29,6 +29,12 @@ I’m always learning, exploring new ideas, and open to exciting collaborations.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](http://linkedin.com/in/monique-van-den-berg)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/Moniquevdb109)
 
+- - -
+## 📊 Github Stats
+![Monique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moniquevdb109&show_icons=true&theme=tokyonight)
+
+
+
 
 
 
